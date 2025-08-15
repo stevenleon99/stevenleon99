@@ -1,4 +1,4 @@
-[![Typing SVG](https://readme-typing-svg.herokuapp.com?font=Fira+Code&pause=1000&width=500&lines=Hello%2C+I'm+Steve+Liu+%F0%9F%91%8B;Interested+in+Robotics+And+Automation+%F0%9F%9B%A1%EF%B8%8F;Terminal+Guru+%F0%9F%92%BB;C+Family+Lover+%F0%9F%90%8D;Loves+open+source+software+%F0%9F%90%A7)](https://git.io/typing-svg)
+[![Typing SVG](https://readme-typing-svg.herokuapp.com?font=Fira+Code&pause=1000&width=500&lines=Hello%2C+I'm+Steve+Liu+%F0%9F%91%8B;Interested+in+Robotics+And+Automation+%F0%9F%9B%A1%EF%B8%8F;Terminal+Guru+%F0%9F%92%BB;C+Family+Lover+©©©;Loves+open+source+software+%F0%9F%90%A7)](https://git.io/typing-svg)
 
 ### About me
 
